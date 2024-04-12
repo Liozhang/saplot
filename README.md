@@ -1,2 +1,1 @@
-# saplot
-A Simlpe Sequence Alignment Plot
+# SAPlot: A Simlpe Sequence Alignment Plot
